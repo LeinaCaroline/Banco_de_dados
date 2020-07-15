@@ -1,1 +1,2 @@
-# Banco_de_dados
+# Objetivos desse repositório:
+Aqui posto o que aprendi sobre Banco de dados.
